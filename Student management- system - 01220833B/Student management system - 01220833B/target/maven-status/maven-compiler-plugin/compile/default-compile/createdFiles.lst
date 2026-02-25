@@ -1,0 +1,12 @@
+com\sms\ui\ReportsView.class
+com\sms\util\DatabaseConnection.class
+com\sms\domain\student.class
+com\sms\repository\SQLiteStudentRepository.class
+com\sms\ui\MainApp.class
+com\sms\ui\DashboardView.class
+com\sms\ui\ImportExportView.class
+com\sms\ui\SettingsView.class
+com\sms\service\StudentService.class
+com\sms\ui\StudentsView.class
+com\sms\repository\StudentRepository.class
+com\sms\ui\MainLayout.class

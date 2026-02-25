@@ -1,0 +1,12 @@
+C:\Users\techweb788\Desktop\Student management system - 01220833B\src\main\java\com\sms\domain\student.java
+C:\Users\techweb788\Desktop\Student management system - 01220833B\src\main\java\com\sms\repository\SQLiteStudentRepository.java
+C:\Users\techweb788\Desktop\Student management system - 01220833B\src\main\java\com\sms\repository\StudentRepository.java
+C:\Users\techweb788\Desktop\Student management system - 01220833B\src\main\java\com\sms\service\StudentService.java
+C:\Users\techweb788\Desktop\Student management system - 01220833B\src\main\java\com\sms\ui\DashboardView.java
+C:\Users\techweb788\Desktop\Student management system - 01220833B\src\main\java\com\sms\ui\ImportExportView.java
+C:\Users\techweb788\Desktop\Student management system - 01220833B\src\main\java\com\sms\ui\MainApp.java
+C:\Users\techweb788\Desktop\Student management system - 01220833B\src\main\java\com\sms\ui\MainLayout.java
+C:\Users\techweb788\Desktop\Student management system - 01220833B\src\main\java\com\sms\ui\ReportsView.java
+C:\Users\techweb788\Desktop\Student management system - 01220833B\src\main\java\com\sms\ui\SettingsView.java
+C:\Users\techweb788\Desktop\Student management system - 01220833B\src\main\java\com\sms\ui\StudentsView.java
+C:\Users\techweb788\Desktop\Student management system - 01220833B\src\main\java\com\sms\util\DatabaseConnection.java
